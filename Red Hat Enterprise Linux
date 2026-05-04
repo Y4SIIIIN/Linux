@@ -1,1 +1,5 @@
-# CD 
+When international internet connectivity is interrupted, 
+the professional workflow of a website developer or programmer, reliant on accessing libraries, registries, and packages, 
+becomes critically dependent on mirrors. 
+Linux distributions, without access to their primary repositories (such as Ubuntu, Debian, or Arch), are rendered virtually inoperable. 
+During internet outages within Iran, default routes must be redirected to datacenters that host complete local copies of these repositories.

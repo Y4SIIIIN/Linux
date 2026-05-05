@@ -1,3 +1,6 @@
+# Linux has only one root directory
+*   All Files and subdirectory are placed under the root directory in a treelike structure
+
 # The Four Essential Freedoms of Free Software
 
 A program is considered "free software" if the users possess the following four essential freedoms:
